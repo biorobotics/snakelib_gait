@@ -33,7 +33,7 @@ def serpenoid(
         Output joint angles
     """
     return offset + amplitude * np.sin(
-        np.pi * 2 * (spatial_frequency * n - time_frequency * phase + phase_shift))
+        np.pi * 2 * (spatial_frequency * n + time_frequency * phase + phase_shift))
 
 
 def compound_serpenoid(
