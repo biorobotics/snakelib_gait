@@ -6,6 +6,7 @@ from sensor_msgs.msg import JointState
 from .gaits import compound_serpenoid
 from .gaits import helix
 from .gaits import helix_auto
+from .gaits import windowed_helix
 from .gaits import sidewind
 
 
@@ -45,6 +46,13 @@ class GaitTester(Node):
             'helix_auto': (helix_auto, {
                 'tightness': 0.6,
                 'pole_side': 0,
+                'time_frequency': 0.25,
+            }),
+            'windowed_helix': (windowed_helix, {
+                'window_n': 0,
+                'bend_angle':np.pi,
+                'amplitude': 1,
+                'spatial_frequency': 0.01,
                 'time_frequency': 0.25,
             }),
             'sidewind': (sidewind, {
