@@ -311,12 +311,12 @@ This works for gaits such as sidewinding where the 'center' of the robot is rela
 
 [^ModelingRolling]: W. Zhen, C. Gong and H. Choset, "Modeling rolling gaits of a snake robot," 2015 IEEE International Conference on Robotics and Automation (ICRA), Seattle, WA, USA, 2015, pp. 3741-3746, doi: [10.1109/ICRA.2015.7139719](https://doi.org/10.1109/ICRA.2015.7139719).
 
-[^ChainFitting] Hatton, R.L., Choset, H. Generating gaits for snake robots: annealed chain fitting and keyframe wave extraction. Auton Robot 28, 271–281 (2010). https://doi.org/10.1007/s10514-009-9175-2
+[^ChainFitting]: Hatton, R.L., Choset, H. Generating gaits for snake robots: annealed chain fitting and keyframe wave extraction. Auton Robot 28, 271–281 (2010). https://doi.org/10.1007/s10514-009-9175-2
 
 
 [^ConicalSidewinding]: C. Gong, R. L. Hatton and H. Choset, "Conical sidewinding," 2012 IEEE International Conference on Robotics and Automation, Saint Paul, MN, USA, 2012, pp. 4222-4227, doi: [10.1109/ICRA.2012.6225377](https://doi.org/10.1109/ICRA.2012.6225377).
 
-[^ExtendedGaitEq] C. Gong, M. J. Travers, Xiaozhou Fu and H. Choset, "Extended gait equation for sidewinding," 2013 IEEE International Conference on Robotics and Automation, Karlsruhe, Germany, 2013, pp. 5162-5167, doi: [10.1109/ICRA.2013.6631315](https://doi.org/10.1109/ICRA.2013.6631315).
+[^ExtendedGaitEq]: C. Gong, M. J. Travers, Xiaozhou Fu and H. Choset, "Extended gait equation for sidewinding," 2013 IEEE International Conference on Robotics and Automation, Karlsruhe, Germany, 2013, pp. 5162-5167, doi: [10.1109/ICRA.2013.6631315](https://doi.org/10.1109/ICRA.2013.6631315).
 
 
 
