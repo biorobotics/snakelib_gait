@@ -19,7 +19,7 @@ This is a subset of the nomenclature used in the book.
 | $s$   | Distance along axis of ACM body |
 | $x(s)$ | x-coordinate of an arbitrary point $\mathrm{Q}$ on the body axis measured from point $\mathrm{O}$|
 | $y(s)$ | y-coordinate of an arbitrary point $\mathrm{Q}$ on the body axis measured from point $\mathrm{O}$|
-| $J_i$   | Jonint number $i$ |
+| $J_i$   | Joint number $i$ |
 |$\mathrm{O}$, $\mathrm{P}$| Points on body axis at zero and maximum amplitude, respectively |
 | $J_n(\alpha)$   | Bessel function of the first kind |
 | $C(s) \\ S(s)$| Fresnel's Integrals |
