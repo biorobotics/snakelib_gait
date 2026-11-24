@@ -17,8 +17,8 @@ This is a subset of the nomenclature used in the book.
 | $l$   | Curve length over a quarter cycle |
 | $L$   | Overall length of ACM body |
 | $s$   | Distance along axis of ACM body |
-| $x(s)$ | x-coordinate of an arbitrary point $\mathrm{Q}$ on the body axis measuref from point $\mathrm{O}$|
-| $x(s)$ | y-coordinate of an arbitrary point $\mathrm{Q}$ on the body axis measuref from point $\mathrm{O}$|
+| $x(s)$ | x-coordinate of an arbitrary point $\mathrm{Q}$ on the body axis measured from point $\mathrm{O}$|
+| $y(s)$ | y-coordinate of an arbitrary point $\mathrm{Q}$ on the body axis measured from point $\mathrm{O}$|
 | $J_i$   | Jonint number $i$ |
 |$\mathrm{O}$, $\mathrm{P}$| Points on body axis at zero and maximum amplitude, respectively |
 | $J_n(\alpha)$   | Bessel function of the first kind |
